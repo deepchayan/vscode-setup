@@ -8,7 +8,7 @@
 7. if `6` step doesn't work close vs code then open power shell type  `wsl --shutdown` close it.
     open ubuntu type `rm -r ~/.vscode-server` then type `code .`
 8. press `ctrl + ~` to open terminal in vs code.
-9. **Changing default workspace folder** : If i want to make another folder as my primary coding space press make a folder by `mkdir Project` and named then open that `project` folder by this `cd` then `code . -r` paste this.
+9. **Changing default workspace folder** : If i want to make another folder as my primary coding space, make a folder by `mkdir Project` and named then open that `project` folder by this `cd` then `code . -r` paste this.
 10. NOTE: use `mnt folder` to use windows files
 11. NOTE: use `touch abc.c` to save the code
 
